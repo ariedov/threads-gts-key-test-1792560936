@@ -8,7 +8,7 @@
   "followers": "https://raw.githack.com/ariedov/threads-gts-key-test-1792560936/master/followers.json",
   "following": "https://raw.githack.com/ariedov/threads-gts-key-test-1792560936/master/following.json",
   "publicKey": {
-    "id": "https://raw.githack.com/ariedov/threads-gts-key-test-1792560936/master/key.json",
+    "id": "https://raw.githack.com/ariedov/threads-gts-key-test-1792560936/master/actor.json#main-key",
     "owner": "https://raw.githack.com/ariedov/threads-gts-key-test-1792560936/master/actor.json",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5uJB767PHV//FHO9L3Xm\nBe9VGCWFCBntmY5fhz09SlFDNX+2ARCZH4zrn2I5jbzhFPj1QXmqCJ9TyFqCq7do\nxrFy4V2jat01qrw6CEohXTsCAZC+bMa1jOVtJ2/7ugl2FAZcwjapSrudTjTMEvVy\nu3QnYAdJ79Ok0WdKen/sJeB+CJnqz78ymyyLp8UW0djhYG5/QKeTbQXrj9cHJX/f\nFJBEY4fWD0Z72rHr68KZCd6LqUREzL1Q2PC/8Rkadyh0M6+v+CISqmnLgM9MvcAL\nh3NRBQq4wqQIpIyKvy0V/FyrK52dbSRJ/s5t6cAb4ffaTsUmbAzIBqUotKmrblPs\nKQIDAQAB\n-----END PUBLIC KEY-----\n"
   }
